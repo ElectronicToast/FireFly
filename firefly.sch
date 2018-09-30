@@ -1,12 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:firefly-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "FireFly v1"
-Date "2018-09-25"
+Date "2018-09-27"
 Rev "A"
 Comp ""
 Comment1 ""
@@ -450,7 +449,7 @@ Connection ~ 1000 3350
 Text Notes 1150 3000 0    60   ~ 12
 POWER REGULATION
 Wire Notes Line
-	2800 4800 500  4800
+	2800 4900 500  4900
 Wire Notes Line
 	2800 6000 500  6000
 Wire Notes Line
@@ -534,7 +533,7 @@ F 1 "16 MHz" V 1445 5631 50  0000 L CNN
 F 2 "Crystal:Crystal_HC49-4H_Vertical" H 1400 5500 50  0001 C CNN
 F 3 "http://static6.arrow.com/aropdfconversion/7628a2618c9ec1dab32df4416d1edfd9e097661f/813008-0309-0.pdf" H 1400 5500 50  0001 C CNN
 F 4 "Arrow" V 1400 5500 50  0001 C CNN "Supplier"
-F 5 "ATS160A-E" V 1400 5500 50  0001 C CNN "Part No"
+F 5 "ATS16A-E" V 1400 5500 50  0001 C CNN "Part No"
 F 6 "https://www.arrow.com/en/products/ats16a-e/cts" V 1400 5500 50  0001 C CNN "Supplier Link"
 	1    1400 5500
 	0    1    1    0   

@@ -1,6 +1,8 @@
 # FireFly
 Open source ATmega8 target board with voltage regulation and ICSP, FTDI breakouts.
 
+&nbsp;
+
 ![FireFly-Front](img/firefly_front_crop.png)
 
 ![FireFly-Back](img/firefly_back_crop.png)
@@ -10,7 +12,7 @@ FIREFLY is an open-source ATmega8 (ATmega328) target board that might be likened
 
 The ATmega8 may be programmed through the onboard ICSP or FTDI headers with an appropriate programmer. The power source for the target may be selected by a jumper shunt; when programming, take care not to power the target through the DC input (VIN) in addition to the programmer.
 
-Designed with KiCad EDA 5.0.0. Gerber and drill files for fabrication may be found in `/gerber`, while documentation in pdf format may be found in `/pdf`. 
+Designed with KiCad EDA 5.0.1. Gerber and drill files for fabrication may be found in `/gerber`, while documentation in pdf format may be found in `/pdf`. 
 
 ## Author
 - Ray Sun - Undergraduate, Electrical Engineering, Caltech, Class of 2020

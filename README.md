@@ -3,11 +3,14 @@ Open source ATmega8 target board with voltage regulation and ICSP, FTDI breakout
 
 &nbsp;
 
+![FireFly](img/firefly.png)
+
+## Description
+
 ![FireFly-Front](img/firefly_front_crop.png)
 
 ![FireFly-Back](img/firefly_back_crop.png)
 
-## Description
 FIREFLY is an open-source ATmega8 (ATmega328) target board that might be likened to a lightweight yet accessible Arduino Uno R3. It is intended to be used for learning AVR C/C++ or AVR Assembly with Atmel Studio. A 16 MHz oscillator and reset circuit is provided for a complete microcontroller system. 5V and 3V3 power are created from DC input. The 28 pins of the ATmega8 DIP package are brought out onto breadboard-compatible headers so that the whole board may be plugged directly into a breadboard and used.
 
 The ATmega8 may be programmed through the onboard ICSP or FTDI headers with an appropriate programmer. The power source for the target may be selected by a jumper shunt; when programming, take care not to power the target through the DC input (VIN) in addition to the programmer.

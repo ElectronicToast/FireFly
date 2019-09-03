@@ -1,4 +1,7 @@
 # FireFly
+
+![release](https://img.shields.io/github/v/release/electronictoast/firefly?include_prereleases) ![madewith](https://img.shields.io/badge/made%20with-KiCad-blue)
+
 Open source ATmega8 target board with voltage regulation and ICSP, FTDI breakouts.
 
 &nbsp;
